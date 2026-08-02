@@ -1,0 +1,200 @@
+﻿ID;Nome;Tipo;Pai;Caminho Completo
+0;Conhecimento Humano;Raiz;;Conhecimento Humano
+101;Linguagem e Comunicação;Grande Domínio;0;Conhecimento Humano > Linguagem e Comunicação
+10101;Letras e Linguística;Área;101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística
+1010101;Língua Portuguesa;Subárea;10101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa
+101010101;Construção e Interpretação do Texto;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Construção e Interpretação do Texto
+10101010101;Gêneros Textuais;Especialidade;101010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Construção e Interpretação do Texto > Gêneros Textuais
+1,0101E+12;Textos Literários e Não Literários;Tema;10101010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Construção e Interpretação do Texto > Gêneros Textuais > Textos Literários e Não Literários
+1,0101E+12;Textos Narrativos Descritivos e Argumentativos;Tema;10101010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Construção e Interpretação do Texto > Gêneros Textuais > Textos Narrativos Descritivos e Argumentativos
+10101010102;Organização Interna do Texto;Especialidade;101010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Construção e Interpretação do Texto > Organização Interna do Texto
+101010102;Semântica;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Semântica
+10101010201;Sentido e Emprego dos Vocábulos;Especialidade;101010102;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Semântica > Sentido e Emprego dos Vocábulos
+10101010202;Campos Semânticos;Especialidade;101010102;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Semântica > Campos Semânticos
+10101010203;Emprego de Tempos e Modos Verbais;Especialidade;101010102;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Semântica > Emprego de Tempos e Modos Verbais
+101010103;Morfologia;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Morfologia
+10101010301;Classes Gramaticais;Especialidade;101010103;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Morfologia > Classes Gramaticais
+10101010302;Formação de Palavras;Especialidade;101010103;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Morfologia > Formação de Palavras
+10101010303;Flexão Nominal e Verbal;Especialidade;101010103;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Morfologia > Flexão Nominal e Verbal
+101010104;Sintaxe;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe
+10101010401;Frase Oração e Período;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Frase Oração e Período
+10101010402;Termos da Oração;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Termos da Oração
+10101010403;Coordenação e Subordinação;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Coordenação e Subordinação
+10101010404;Concordância;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Concordância
+1,0101E+12;Concordância Nominal e Verbal;Tema;10101010404;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Concordância > Concordância Nominal e Verbal
+10101010405;Transitividade e Regência;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Transitividade e Regência
+10101010406;Colocação Pronominal;Especialidade;101010104;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Sintaxe > Colocação Pronominal
+101010105;Coesão e Reescrita Textual;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Coesão e Reescrita Textual
+10101010501;Mecanismos de Coesão;Especialidade;101010105;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Coesão e Reescrita Textual > Mecanismos de Coesão
+10101010502;Reescrita de Frases;Especialidade;101010105;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Coesão e Reescrita Textual > Reescrita de Frases
+1,0101E+12;Substituição Deslocamento e Paralelismo;Tema;10101010502;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Coesão e Reescrita Textual > Reescrita de Frases > Substituição Deslocamento e Paralelismo
+101010106;Ortografia e Pontuação;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Ortografia e Pontuação
+10101010601;Ortografia e Acentuação Gráfica;Especialidade;101010106;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Ortografia e Pontuação > Ortografia e Acentuação Gráfica
+10101010602;Emprego da Crase;Especialidade;101010106;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Ortografia e Pontuação > Emprego da Crase
+10101010603;Sinais de Pontuação;Especialidade;101010106;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Ortografia e Pontuação > Sinais de Pontuação
+101010107;Variação Linguística;Divisão;1010101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Portuguesa > Variação Linguística
+1010102;Língua Inglesa;Subárea;10101;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa
+101010201;Compreensão e Interpretação de Textos;Divisão;1010102;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Compreensão e Interpretação de Textos
+10101020101;Ideias Principais e Secundárias;Especialidade;101010201;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Compreensão e Interpretação de Textos > Ideias Principais e Secundárias
+10101020102;Relações Intratextuais e Intertextuais;Especialidade;101010201;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Compreensão e Interpretação de Textos > Relações Intratextuais e Intertextuais
+101010202;Gramática e Semântica;Divisão;1010102;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Gramática e Semântica
+10101020201;Vocabulário e Expressões Equivalentes;Especialidade;101010202;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Gramática e Semântica > Vocabulário e Expressões Equivalentes
+10101020202;Elementos de Referência;Especialidade;101010202;Conhecimento Humano > Linguagem e Comunicação > Letras e Linguística > Língua Inglesa > Gramática e Semântica > Elementos de Referência
+102;Ciências Formais;Grande Domínio;0;Conhecimento Humano > Ciências Formais
+10201;Matemática e Lógica;Área;102;Conhecimento Humano > Ciências Formais > Matemática e Lógica
+1020101;Lógica;Subárea;10201;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica
+102010101;Lógica Proposicional e de Predicados;Divisão;1020101;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Lógica Proposicional e de Predicados
+10201010101;Proposições e Conectivos;Especialidade;102010101;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Lógica Proposicional e de Predicados > Proposições e Conectivos
+10201010102;Equivalências Lógicas e Quantificadores;Especialidade;102010101;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Lógica Proposicional e de Predicados > Equivalências Lógicas e Quantificadores
+102010102;Raciocínio Analítico e Estrutural;Divisão;1020101;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Raciocínio Analítico e Estrutural
+10201010201;Estrutura de Relações Arbitrárias;Especialidade;102010102;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Raciocínio Analítico e Estrutural > Estrutura de Relações Arbitrárias
+10201010202;Dedução e Orientação Espacial/Temporal;Especialidade;102010102;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Lógica > Raciocínio Analítico e Estrutural > Dedução e Orientação Espacial/Temporal
+1020102;Matemática Básica;Subárea;10201;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica
+102010201;Aritmética e Conjuntos;Divisão;1020102;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Aritmética e Conjuntos
+10201020101;Conjuntos e Operações;Especialidade;102010201;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Aritmética e Conjuntos > Conjuntos e Operações
+10201020102;Números Inteiros Racionais e Reais;Especialidade;102010201;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Aritmética e Conjuntos > Números Inteiros Racionais e Reais
+102010202;Matemática Financeira e Proporcionalidade;Divisão;1020102;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Matemática Financeira e Proporcionalidade
+10201020201;Porcentagem e Juros;Especialidade;102010202;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Matemática Financeira e Proporcionalidade > Porcentagem e Juros
+10201020202;Proporcionalidade Direta e Inversa;Especialidade;102010202;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Matemática Básica > Matemática Financeira e Proporcionalidade > Proporcionalidade Direta e Inversa
+1020103;Geometria e Sistemas de Medida;Subárea;10201;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Geometria e Sistemas de Medida
+102010301;Medidas e Grandezas;Divisão;1020103;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Geometria e Sistemas de Medida > Medidas e Grandezas
+102010302;Geometria Básica;Divisão;1020103;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Geometria e Sistemas de Medida > Geometria Básica
+10201030201;Ângulos Triângulos e Polígonos;Especialidade;102010302;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Geometria e Sistemas de Medida > Geometria Básica > Ângulos Triângulos e Polígonos
+10201030202;Plano Cartesiano e Distâncias;Especialidade;102010302;Conhecimento Humano > Ciências Formais > Matemática e Lógica > Geometria e Sistemas de Medida > Geometria Básica > Plano Cartesiano e Distâncias
+10202;Estatística;Área;102;Conhecimento Humano > Ciências Formais > Estatística
+1020201;Estatística Descritiva;Subárea;10202;Conhecimento Humano > Ciências Formais > Estatística > Estatística Descritiva
+102020101;Medidas de Tendência e Dispersão;Divisão;1020201;Conhecimento Humano > Ciências Formais > Estatística > Estatística Descritiva > Medidas de Tendência e Dispersão
+10202010101;Média Moda Mediana e Desvio Padrão;Especialidade;102020101;Conhecimento Humano > Ciências Formais > Estatística > Estatística Descritiva > Medidas de Tendência e Dispersão > Média Moda Mediana e Desvio Padrão
+102020102;Representação de Dados;Divisão;1020201;Conhecimento Humano > Ciências Formais > Estatística > Estatística Descritiva > Representação de Dados
+10202010201;Gráficos e Tabelas;Especialidade;102020102;Conhecimento Humano > Ciências Formais > Estatística > Estatística Descritiva > Representação de Dados > Gráficos e Tabelas
+1020202;Probabilidade e Contagem;Subárea;10202;Conhecimento Humano > Ciências Formais > Estatística > Probabilidade e Contagem
+102020201;Análise Combinatória;Divisão;1020202;Conhecimento Humano > Ciências Formais > Estatística > Probabilidade e Contagem > Análise Combinatória
+102020202;Distribuições de Probabilidade;Divisão;1020202;Conhecimento Humano > Ciências Formais > Estatística > Probabilidade e Contagem > Distribuições de Probabilidade
+1020203;Inferência e Predição;Subárea;10202;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição
+102020301;Estimação e Testes;Divisão;1020203;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição > Estimação e Testes
+10202030101;Estimação Pontual Intervalar e Testes de Hipóteses;Especialidade;102020301;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição > Estimação e Testes > Estimação Pontual Intervalar e Testes de Hipóteses
+102020302;Modelos de Regressão;Divisão;1020203;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição > Modelos de Regressão
+10202030201;Séries Temporais e Regressão Linear;Especialidade;102020302;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição > Modelos de Regressão > Séries Temporais e Regressão Linear
+10202030202;Regressão Logística;Especialidade;102020302;Conhecimento Humano > Ciências Formais > Estatística > Inferência e Predição > Modelos de Regressão > Regressão Logística
+103;Ciências Sociais Aplicadas;Grande Domínio;0;Conhecimento Humano > Ciências Sociais Aplicadas
+10301;Contabilidade;Área;103;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade
+1030101;Contabilidade Geral;Subárea;10301;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral
+103010101;Fundamentos Contábeis;Divisão;1030101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Fundamentos Contábeis
+10301010101;Conceitos Objetivos e Normas do CFC;Especialidade;103010101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Fundamentos Contábeis > Conceitos Objetivos e Normas do CFC
+103010102;Patrimônio e Fatos Contábeis;Divisão;1030101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Patrimônio e Fatos Contábeis
+10301010201;Atos e Fatos Administrativos;Especialidade;103010102;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Patrimônio e Fatos Contábeis > Atos e Fatos Administrativos
+10301010202;Itens Patrimoniais (Ativo Passivo PL);Especialidade;103010102;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Patrimônio e Fatos Contábeis > Itens Patrimoniais (Ativo Passivo PL)
+103010103;Escrituração e Resultados;Divisão;1030101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Escrituração e Resultados
+10301010301;Livros Contábeis e Lançamentos;Especialidade;103010103;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Escrituração e Resultados > Livros Contábeis e Lançamentos
+10301010302;Regimes de Apuração (Caixa e Competência);Especialidade;103010103;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Escrituração e Resultados > Regimes de Apuração (Caixa e Competência)
+103010104;Demonstrações Contábeis;Divisão;1030101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Demonstrações Contábeis
+10301010401;Balanço Patrimonial e DRE;Especialidade;103010104;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Demonstrações Contábeis > Balanço Patrimonial e DRE
+10301010402;DLPA DMPL DFC e DVA;Especialidade;103010104;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Demonstrações Contábeis > DLPA DMPL DFC e DVA
+10301010403;Notas Explicativas e Ajustes (Leis 11.638 e 11.941);Especialidade;103010104;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Demonstrações Contábeis > Notas Explicativas e Ajustes (Leis 11.638 e 11.941)
+103010105;Estoques e Operações;Divisão;1030101;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Estoques e Operações
+10301010501;Inventários e Avaliação de Estoques;Especialidade;103010105;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Estoques e Operações > Inventários e Avaliação de Estoques
+10301010502;CMV e Tributos em Compras/Vendas;Especialidade;103010105;Conhecimento Humano > Ciências Sociais Aplicadas > Contabilidade > Contabilidade Geral > Estoques e Operações > CMV e Tributos em Compras/Vendas
+10302;Administração;Área;103;Conhecimento Humano > Ciências Sociais Aplicadas > Administração
+1030201;Administração Geral;Subárea;10302;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral
+103020101;Processo Administrativo;Divisão;1030201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Processo Administrativo
+10302010101;Planejamento Organização Direção e Controle;Especialidade;103020101;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Processo Administrativo > Planejamento Organização Direção e Controle
+10302010102;Planejamento Estratégico Tático e Operacional;Especialidade;103020101;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Processo Administrativo > Planejamento Estratégico Tático e Operacional
+103020102;Comportamento Organizacional;Divisão;1030201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Comportamento Organizacional
+10302010201;Motivação Liderança e Cultura Organizacional;Especialidade;103020102;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Comportamento Organizacional > Motivação Liderança e Cultura Organizacional
+103020103;Gestão de Pessoas;Divisão;1030201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Gestão de Pessoas
+10302010301;Recrutamento Seleção e Treinamento;Especialidade;103020103;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Gestão de Pessoas > Recrutamento Seleção e Treinamento
+10302010302;Avaliação de Desempenho e Competências;Especialidade;103020103;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Gestão de Pessoas > Avaliação de Desempenho e Competências
+103020104;Gestão da Qualidade Projetos e Processos;Divisão;1030201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Gestão da Qualidade Projetos e Processos
+10302010401;Ferramentas da Qualidade e BPM;Especialidade;103020104;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Gestão da Qualidade Projetos e Processos > Ferramentas da Qualidade e BPM
+103020105;Administração Financeira;Divisão;1030201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Administração Financeira
+10302010501;Alavancagem e Planejamento Financeiro;Especialidade;103020105;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Geral > Administração Financeira > Alavancagem e Planejamento Financeiro
+1030202;Administração Pública;Subárea;10302;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública
+103020201;Modelos e Reformas do Estado;Divisão;1030202;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Modelos e Reformas do Estado
+10302020101;Patrimonialismo Burocracia e Gerencialismo;Especialidade;103020201;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Modelos e Reformas do Estado > Patrimonialismo Burocracia e Gerencialismo
+103020202;Governança e Participação;Divisão;1030202;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Governança e Participação
+10302020201;Controle Social Transparência e Accountability;Especialidade;103020202;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Governança e Participação > Controle Social Transparência e Accountability
+10302020202;Gestão de Riscos (Identificação e Tratamento);Especialidade;103020202;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Governança e Participação > Gestão de Riscos (Identificação e Tratamento)
+103020203;Políticas Públicas e Compras;Divisão;1030202;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Políticas Públicas e Compras
+10302020301;Ciclo de Políticas Públicas;Especialidade;103020203;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Políticas Públicas e Compras > Ciclo de Políticas Públicas
+10302020302;Compras Governamentais e Sustentabilidade;Especialidade;103020203;Conhecimento Humano > Ciências Sociais Aplicadas > Administração > Administração Pública > Políticas Públicas e Compras > Compras Governamentais e Sustentabilidade
+10303;Direito;Área;103;Conhecimento Humano > Ciências Sociais Aplicadas > Direito
+1030301;Direito Constitucional;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional
+103030101;Teoria Geral e Princípios;Divisão;1030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Teoria Geral e Princípios
+10303010101;Poder Constituinte e Supremacia;Especialidade;103030101;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Teoria Geral e Princípios > Poder Constituinte e Supremacia
+10303010102;Controle de Constitucionalidade;Especialidade;103030101;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Teoria Geral e Princípios > Controle de Constitucionalidade
+103030102;Direitos Fundamentais e Organização;Divisão;1030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Direitos Fundamentais e Organização
+10303010201;Direitos e Garantias Fundamentais;Especialidade;103030102;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Direitos Fundamentais e Organização > Direitos e Garantias Fundamentais
+10303010202;Organização do Estado e da Administração;Especialidade;103030102;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Direitos Fundamentais e Organização > Organização do Estado e da Administração
+103030103;Organização dos Poderes;Divisão;1030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Organização dos Poderes
+10303010301;Poder Legislativo e TCU;Especialidade;103030103;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Organização dos Poderes > Poder Legislativo e TCU
+10303010302;Poder Executivo e Judiciário;Especialidade;103030103;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Organização dos Poderes > Poder Executivo e Judiciário
+103030104;Finanças e Ordem Econômica;Divisão;1030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Finanças e Ordem Econômica
+10303010401;Sistema Tributário Nacional e Orçamento;Especialidade;103030104;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Constitucional > Finanças e Ordem Econômica > Sistema Tributário Nacional e Orçamento
+1030302;Direito Administrativo;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo
+103030201;Princípios e Poderes;Divisão;1030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Princípios e Poderes
+10303020101;Poderes Hierárquico Disciplinar de Polícia e Regulamentar;Especialidade;103030201;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Princípios e Poderes > Poderes Hierárquico Disciplinar de Polícia e Regulamentar
+103030202;Atos e Organização Administrativa;Divisão;1030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Atos e Organização Administrativa
+10303020201;Requisitos Atributos Anulação e Revogação;Especialidade;103030202;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Atos e Organização Administrativa > Requisitos Atributos Anulação e Revogação
+10303020202;Administração Direta Indireta e Terceiro Setor;Especialidade;103030202;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Atos e Organização Administrativa > Administração Direta Indireta e Terceiro Setor
+103030203;Agentes Públicos e Controle;Divisão;1030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Agentes Públicos e Controle
+10303020301;Regime Jurídico Lei 8.112/90;Especialidade;103030203;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Agentes Públicos e Controle > Regime Jurídico Lei 8.112/90
+10303020302;Controle Administrativo Judicial e Legislativo;Especialidade;103030203;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Agentes Públicos e Controle > Controle Administrativo Judicial e Legislativo
+10303020303;Improbidade Administrativa Lei 8.429/92;Especialidade;103030203;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Agentes Públicos e Controle > Improbidade Administrativa Lei 8.429/92
+103030204;Serviços Bens e Intervenção;Divisão;1030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Serviços Bens e Intervenção
+10303020401;Licitações e Contratos Lei 14.133/21;Especialidade;103030204;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Serviços Bens e Intervenção > Licitações e Contratos Lei 14.133/21
+10303020402;Intervenção na Propriedade e LGPD;Especialidade;103030204;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Administrativo > Serviços Bens e Intervenção > Intervenção na Propriedade e LGPD
+1030303;Direito Tributário;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário
+103030301;Normas Gerais e Competência;Divisão;1030303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Normas Gerais e Competência
+10303030101;Limitações e Imunidades;Especialidade;103030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Normas Gerais e Competência > Limitações e Imunidades
+10303030102;Legislação Tributária e Vigência;Especialidade;103030301;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Normas Gerais e Competência > Legislação Tributária e Vigência
+103030302;Obrigação e Responsabilidade;Divisão;1030303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Obrigação e Responsabilidade
+10303030201;Fato Gerador e Sujeição;Especialidade;103030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Obrigação e Responsabilidade > Fato Gerador e Sujeição
+10303030202;Responsabilidade de Terceiros e Sucessores;Especialidade;103030302;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Obrigação e Responsabilidade > Responsabilidade de Terceiros e Sucessores
+103030303;Crédito Tributário;Divisão;1030303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Crédito Tributário
+10303030301;Lançamento Suspensão Extinção e Exclusão;Especialidade;103030303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Crédito Tributário > Lançamento Suspensão Extinção e Exclusão
+103030304;Administração Tributária;Divisão;1030303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Administração Tributária
+10303030401;Fiscalização Dívida Ativa e PAF Decreto 70.235/72;Especialidade;103030304;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Tributário > Administração Tributária > Fiscalização Dívida Ativa e PAF Decreto 70.235/72
+1030304;Direito Previdenciário;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário
+103030401;Seguridade Social;Divisão;1030304;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Seguridade Social
+10303040101;Origem Evolução e Princípios;Especialidade;103030401;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Seguridade Social > Origem Evolução e Princípios
+103030402;Regime Geral de Previdência Social RGPS;Divisão;1030304;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Regime Geral de Previdência Social RGPS
+10303040201;Segurados Obrigatórios e Dependentes;Especialidade;103030402;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Regime Geral de Previdência Social RGPS > Segurados Obrigatórios e Dependentes
+103030403;Financiamento da Seguridade;Divisão;1030304;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Financiamento da Seguridade
+10303040301;Receitas e Salário de Contribuição;Especialidade;103030403;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Financiamento da Seguridade > Receitas e Salário de Contribuição
+10303040302;Responsabilidade Solidária e Retenções;Especialidade;103030403;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Financiamento da Seguridade > Responsabilidade Solidária e Retenções
+103030404;Infrações e Crimes;Divisão;1030304;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Direito Previdenciário > Infrações e Crimes
+1030305;Legislação Tributária;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária
+103030501;Impostos Federais;Divisão;1030305;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais
+10303050101;Imposto de Importação e Exportação;Especialidade;103030501;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais > Imposto de Importação e Exportação
+10303050102;Imposto sobre a Renda IR;Especialidade;103030501;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais > Imposto sobre a Renda IR
+1,03031E+12;Tributação IRPF Carnê-Leão e Ajuste;Tema;10303050102;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais > Imposto sobre a Renda IR > Tributação IRPF Carnê-Leão e Ajuste
+1,03031E+12;Tributação IRPJ Lucro Real Presumido e Arbitrado;Tema;10303050102;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais > Imposto sobre a Renda IR > Tributação IRPJ Lucro Real Presumido e Arbitrado
+10303050103;IPI IOF e ITR;Especialidade;103030501;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Impostos Federais > IPI IOF e ITR
+103030502;Contribuições Sociais e de Intervenção;Divisão;1030305;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Contribuições Sociais e de Intervenção
+10303050201;PIS/PASEP COFINS e CSLL;Especialidade;103030502;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Contribuições Sociais e de Intervenção > PIS/PASEP COFINS e CSLL
+10303050202;CIDE Combustíveis e CIDE Inovação;Especialidade;103030502;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Tributária > Contribuições Sociais e de Intervenção > CIDE Combustíveis e CIDE Inovação
+1030306;Legislação Aduaneira;Subárea;10303;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira
+103030601;Controle e Jurisdição Aduaneira;Divisão;1030306;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Controle e Jurisdição Aduaneira
+10303060101;Território e Recintos Alfandegados;Especialidade;103030601;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Controle e Jurisdição Aduaneira > Território e Recintos Alfandegados
+103030602;Tributos no Comércio Exterior;Divisão;1030306;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Tributos no Comércio Exterior
+10303060201;II IE IPI Vinculado;Especialidade;103030602;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Tributos no Comércio Exterior > II IE IPI Vinculado
+10303060202;PIS/COFINS Importação e CIDE;Especialidade;103030602;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Tributos no Comércio Exterior > PIS/COFINS Importação e CIDE
+103030603;Regimes Aduaneiros Especiais;Divisão;1030306;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Regimes Aduaneiros Especiais
+10303060301;Trânsito Drawback e Admissão Temporária;Especialidade;103030603;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Regimes Aduaneiros Especiais > Trânsito Drawback e Admissão Temporária
+10303060302;Entrepostos ZFM e ZPE;Especialidade;103030603;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Regimes Aduaneiros Especiais > Entrepostos ZFM e ZPE
+103030604;Despacho Infrações e Processo Aduaneiro;Divisão;1030306;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Despacho Infrações e Processo Aduaneiro
+10303060401;Despacho de Importação e Exportação;Especialidade;103030604;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Despacho Infrações e Processo Aduaneiro > Despacho de Importação e Exportação
+10303060402;Pena de Perdimento e Multas;Especialidade;103030604;Conhecimento Humano > Ciências Sociais Aplicadas > Direito > Legislação Aduaneira > Despacho Infrações e Processo Aduaneiro > Pena de Perdimento e Multas
+104;Engenharia e Tecnologia;Grande Domínio;0;Conhecimento Humano > Engenharia e Tecnologia
+10401;Computação e Informática;Área;104;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática
+1040101;Fluência e Ciência de Dados;Subárea;10401;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados
+104010101;Conceitos e Transformação de Dados;Divisão;1040101;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Conceitos e Transformação de Dados
+10401010101;Analytics Tendências e Projeções;Especialidade;104010101;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Conceitos e Transformação de Dados > Analytics Tendências e Projeções
+104010102;Inteligência Artificial e Machine Learning;Divisão;1040101;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Inteligência Artificial e Machine Learning
+10401010201;Processamento de Linguagem Natural;Especialidade;104010102;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Inteligência Artificial e Machine Learning > Processamento de Linguagem Natural
+104010103;Governança e Big Data;Divisão;1040101;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Governança e Big Data
+10401010301;Ciclo de Vida e Papéis em Projetos;Especialidade;104010103;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Governança e Big Data > Ciclo de Vida e Papéis em Projetos
+10401010302;Computação em Nuvem e Modelos de Entrega;Especialidade;104010103;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Governança e Big Data > Computação em Nuvem e Modelos de Entrega
+104010104;Linguagens e Bancos de Dados;Divisão;1040101;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Linguagens e Bancos de Dados
+10401010401;Python e R;Especialidade;104010104;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Linguagens e Bancos de Dados > Python e R
+10401010402;Bancos NoSQL;Especialidade;104010104;Conhecimento Humano > Engenharia e Tecnologia > Computação e Informática > Fluência e Ciência de Dados > Linguagens e Bancos de Dados > Bancos NoSQL
