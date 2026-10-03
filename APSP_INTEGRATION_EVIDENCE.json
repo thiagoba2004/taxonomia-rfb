@@ -1,0 +1,24 @@
+{
+  "adapter_mode": "APPLICATION_RUNTIME_BRIDGE",
+  "adapter_sha": "898523ce0b718a3c2f5bf616cfb6816fc9437460",
+  "application_entrypoint": {
+    "path": "app.py",
+    "sha": "c2688727eee1e7e7c416a627a1bd6a0b7ce0ae94",
+    "syntax": "VALID"
+  },
+  "broker_repository": "thiagoba2004/governanca-geral-modelos-ia",
+  "project_code": null,
+  "protocol_path": "APSP_AUTONOMOUS_PHASE_SUCCESSION_PROTOCOL.md",
+  "protocol_sha": "47fed56b77fdabd0aaefbeb47983f4cd8dd11dff",
+  "recovery_applicable": false,
+  "recovery_reason": "No persistent orchestration state was identified. Repository is application-runtime-only; synthetic recovery state is prohibited.",
+  "recovery_status": "NOT_APPLICABLE",
+  "repository": "thiagoba2004/taxonomia-rfb",
+  "requirements": {
+    "path": "requirements.txt",
+    "sha": "5346fe413beba741953137fbbc8fcb60a52a88e1"
+  },
+  "schema_version": "1.1",
+  "secret_policy": "NO_LOCAL_SECRETS",
+  "status": "VERIFIED"
+}
